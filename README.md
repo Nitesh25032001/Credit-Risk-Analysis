@@ -1,4 +1,4 @@
-# Credit-Risk-Analysis
+# Lead Scoring Case Study
 The notebook is a Lead Scoring Case Study, which involves:
 
 Data cleaning
